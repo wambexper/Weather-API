@@ -1,5 +1,5 @@
-# Weather-API 
-Developed By Peter Wambedde
+# Weather-API......Developed By Peter Wambedde
+
 The Weather Application is a web-based tool that allows users to fetch real-time weather data based on their current location. The application consists of two main pages: index.html and weather.html. Users can click the "Fetch Data" button on the index page to navigate to the weather page, where detailed weather information is displayed.
 
 Getting Started
