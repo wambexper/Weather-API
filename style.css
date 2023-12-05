@@ -1,0 +1,31 @@
+body {
+    background-color: #360369;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    height: 100vh;
+    justify-content: center;
+  }
+  h1 {
+    color: #fff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  }
+  button {
+    width: 492px;
+    height: 58px;
+    flex-shrink: 0;
+    color: #000;
+  
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+  }
